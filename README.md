@@ -3,7 +3,7 @@ Initiative to give back!
 
 We are humans and we understand millions and billions better than powers of a number.
 
-This is still in abstract stage, anyone reading it outside my network. Please don't, It's won't make sense as of now. 
+This is still in abstract stage, anyone reading it outside my network. Please don't, It won't make any sense as of now. 
 Hope to make it robust and powerful soon.
         
 	 * Billion : 10^9   9 digit numbers
